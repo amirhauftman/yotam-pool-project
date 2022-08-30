@@ -1,0 +1,14 @@
+#root {
+  height: 100%;
+}
+
+.App {
+  text-align: center;
+  /* direction: rtl; */
+  flex-grow: 1;
+
+}
+
+.div{
+  display: block;
+}
